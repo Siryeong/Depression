@@ -16,3 +16,8 @@
     - Fantasy Adventure Environment
     - Sun temple
     - Modern UI Pack
+## About Us
+### 
+  - 안민규 교수님
+  - 최시령 학부생
+  - 정가현 학부생
